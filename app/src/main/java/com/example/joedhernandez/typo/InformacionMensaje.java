@@ -5,8 +5,12 @@ package com.example.joedhernandez.typo;
  */
 public class InformacionMensaje {
 
-    public static final String lista_mensajes = "lista_mensajes"; //cuantos mensajes tenemos
-    public static final String id_usuario = "id_usuario";
-    public static final String sendT = "sendT";
-    public static final String texto_mensaje = "texto_mensaje";
+    public static final String LISTA_MENSAJES = "lista_mensajes"; //cuantos mensajes tenemos
+    public static final String ID_USUARIO = "from";
+    public static final String SENDT = "sendT";
+    public static final String TEXTO_MENSAJE = "texto_mensaje";
+
+    public static String id_usuario;
+    public static String sendt;
+    public static String texto_mensaje;
 }

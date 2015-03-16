@@ -6,5 +6,5 @@ package com.example.joedhernandez.typo;
 public enum InformacionEstado {
 
     ONLINE,OFFLINE,UNAPPROVED,INVISIBLE,BUSY
-    
+
 }
